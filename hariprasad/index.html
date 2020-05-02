@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <title>Hari Prasad</title>
+    <link rel="icon" href="src/icon.ico">
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+    <script src="js/main.js"></script>
+  </head>
+  <body>
+
+    <div class="container">
+
+      <div id="sidebar">
+        <h1>Hariprasad</h1>
+        <img src="src/profile.jpg" alt="Profile Picture" id="profile">
+        <p>Hi, I’m Hari. I’m a cyber security enthusiast living in Hyderabad, India. I am a fan of technology, music, and programming</p>
+      </div>
+
+      <div id="terminal">
+        <!--
+        <p id="intro">
+          Placeholder for text on top of command line.
+        </p>
+        -->
+        <div id="injected"></div>
+        <div id="userInput">
+          <input type="text" value="hari@hilinecreators:~$" id="prompt" size = "16" readonly="readonly" class="no-outline">
+          <input type="text" id="txtBox" onkeypress="commandProcessor(event)" class="no-outline" placeholder="Enter help for commands list" size = "45" autofocus >
+        </div>
+      </div>
+
+    </div>
+
+    <footer>
+      <p id="Copyright">
+        ©Copyright 2020 Hiline Creators
+      </p>
+    </footer>
+
+  </body>
+</html>
