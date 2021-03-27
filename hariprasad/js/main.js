@@ -72,7 +72,16 @@ function skills(){
   </tr>\
   <tr>\
     <td>Mobile Application Pentesting</td>\
+    <td>▰▰▰▰▰▱▱▱▱▱ 50%</td>\
+  </tr>\
+    <tr>\
+    <td>API Pentesting</td>\
     <td>▰▰▰▰▱▱▱▱▱▱ 40%</td>\
+  </tr>\
+    </tr>\
+    <tr>\
+    <td>Python</td>\
+    <td>▰▰▰▰▰▱▱▱▱▱ 50%</td>\
   </tr>\
   <tr>\
     <td>HTML</td>\
