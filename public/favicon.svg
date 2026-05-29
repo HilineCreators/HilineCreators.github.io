@@ -1,14 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
-  <circle cx="50" cy="50" r="50" fill="#1a2ecc"/>
-  <text
-    x="50"
-    y="68"
-    text-anchor="middle"
-    font-family="Georgia, 'Times New Roman', serif"
-    font-size="52"
-    font-style="italic"
-    font-weight="bold"
-    fill="white"
-    letter-spacing="-2"
-  >hC</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"><circle cx="50" cy="50" r="50" fill="#1a2ecc"/><text x="50" y="68" fill="#fff" font-family="Georgia, 'Times New Roman', serif" font-size="52" font-style="italic" font-weight="bold" letter-spacing="-2" text-anchor="middle">hC</text></svg>
